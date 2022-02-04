@@ -1,0 +1,18 @@
+body{background: #00f7ff;}
+
+h1{color: darkred;}
+
+.arvore{color: deeppink;}
+
+.celular{color: fuchsia;}
+
+#arvore{
+    font-size: 150px;
+    transform: rotateX(180deg);
+}
+
+.anime:hover{
+    transition: all 2s ease-in-out;
+    transform: rotate(134deg);
+    transition: all 2s ease-in-out;
+}
